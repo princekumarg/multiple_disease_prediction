@@ -16,7 +16,7 @@ This project is a comprehensive system designed to predict multiple diseases bas
 - **Machine Learning:** Python, scikit-learn,
 - **Backend:** Streamlit
 - **Frontend:** Streamlit Ui
-- **Database:** No any Datbase Only Simple CSV file
+- **Database:** No any Datbase Only CSV file
 - **Deployment:** Streamlit Cloud
 
 ## How It Works
