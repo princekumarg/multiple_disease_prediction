@@ -51,4 +51,4 @@ This project is a comprehensive system designed to predict multiple diseases bas
 
 ## Deployment
 
-- [Prince Kumar]([[Live demo](https://princekumarg-multiple-disease-prediction-app1-4366nx.streamlit.app/)])
+- [[Live demo](https://princekumarg-multiple-disease-prediction-app1-4366nx.streamlit.app/)])
