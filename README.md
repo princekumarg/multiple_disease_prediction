@@ -47,4 +47,4 @@ This project is a comprehensive system designed to predict multiple diseases bas
 
 ## Contributors
 
-- [Prince Kumar]([[link to your GitHub profile](https://github.com/princekumarg)])
+- [Prince Kumar]([[princekumarg](https://github.com/princekumarg)])
